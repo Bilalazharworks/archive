@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "start": "scss --watch assets/scss:assets/css --no-cache --style compressed"
+  }
+}
